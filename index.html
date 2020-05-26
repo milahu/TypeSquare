@@ -51,6 +51,7 @@
                 <div class="mbti" data-bind="text: MBTI.join('')"></div>
                 <div class="socionics" data-bind="text: Socionics.join('') + ' / ' + $root.toSocionics(MBTI)"></div>
                 <div class="keirsey" data-bind="text: Keirsey"></div>
+                <div class="four-elements" data-bind="html: FourElements"></div>
             </div>
         </div>
         <div class="functionGraph" data-bind="visible: !$root.activeType()">

@@ -7,112 +7,128 @@ function ViewModel() {
             "Jung": ["Fi", "Se", "Ni", "Te"],
             "Socionics": ["E", "S", "I"],
             "Keirsey": "Composer",
-            "Pierce": "Expression"
+            "Pierce": "Expression",
+            "FourElements": "[4x3]"
         },
         {
             "MBTI": ["E", "S", "F", "P"],
             "Jung": ["Se", "Fi", "Te", "Ni"],
             "Socionics": ["S", "E", "E"],
             "Keirsey": "Performer",
-            "Pierce": "Energy"
+            "Pierce": "Energy",
+            "FourElements": "2x3"
         },
         {
             "MBTI": ["E", "S", "T", "J"],
             "Jung": ["Te", "Si", "Ne", "Fi"],
             "Socionics": ["L", "S", "E"],
             "Keirsey": "Supervisor",
-            "Pierce": "Responsibility"
+            "Pierce": "Responsibility",
+            "FourElements": "2x4"
         },
         {
             "MBTI": ["I", "S", "T", "J"],
             "Jung": ["Si", "Te", "Fi", "Ne"],
             "Socionics": ["S", "L", "I"],
             "Keirsey": "Inspector",
-            "Pierce": "Solidifying"
+            "Pierce": "Solidifying",
+            "FourElements": "<b>4x4</b>"
         },
         {
             "MBTI": ["I", "N", "F", "P"],
             "Jung": ["Fi", "Ne", "Si", "Te"],
             "Socionics": ["E", "I", "I"],
             "Keirsey": "Healer",
-            "Pierce": "Dream-world"
+            "Pierce": "Dream-world",
+            "FourElements": "1x3"
         },
         {
             "MBTI": ["E", "N", "F", "P"],
             "Jung": ["Ne", "Fi", "Te", "Si"],
             "Socionics": ["I", "E", "E"],
             "Keirsey": "Champion",
-            "Pierce": "Child-like"
+            "Pierce": "Child-like",
+            "FourElements": "<b>3x3</b>"
         },
         {
             "MBTI": ["E", "N", "T", "J"],
             "Jung": ["Te", "Ni", "Se", "Fi"],
             "Socionics": ["L", "I", "E"],
             "Keirsey": "Fieldmarshal",
-            "Pierce": "Subjugation"
+            "Pierce": "Subjugation",
+            "FourElements": "[3x4]"
         },
         {
             "MBTI": ["I", "N", "T", "J"],
             "Jung": ["Ni", "Te", "Fi", "Se"],
             "Socionics": ["I", "L", "I"],
             "Keirsey": "Mastermind",
-            "Pierce": "Visionary"
+            "Pierce": "Visionary",
+            "FourElements": "1x4"
         },
         {
             "MBTI": ["E", "S", "T", "P"],
             "Jung": ["Se", "Ti", "Fe", "Ni"],
             "Socionics": ["S", "L", "E"],
             "Keirsey": "Promotor",
-            "Pierce": "Conquering"
+            "Pierce": "Conquering",
+            "FourElements": "[2x1]"
         },
         {
             "MBTI": ["I", "S", "T", "P"],
             "Jung": ["Ti", "Se", "Ni", "Fe"],
             "Socionics": ["L", "S", "I"],
             "Keirsey": "Crafter",
-            "Pierce": "Mastering"
+            "Pierce": "Mastering",
+            "FourElements": "4x1"
         },
         {
             "MBTI": ["I", "S", "F", "J"],
             "Jung": ["Si", "Fe", "Ti", "Ne"],
             "Socionics": ["S", "E", "I"],
             "Keirsey": "Protector",
-            "Pierce": "Dedication"
+            "Pierce": "Dedication",
+            "FourElements": "4x2"
         },
         {
             "MBTI": ["E", "S", "F", "J"],
             "Jung": ["Fe", "Si", "Ne", "Ti"],
             "Socionics": ["E", "S", "E"],
             "Keirsey": "Provider",
-            "Pierce": "Cooperation"
+            "Pierce": "Cooperation",
+            "FourElements": "<b>2x2</b>"
         },
         {
             "MBTI": ["I", "N", "T", "P"],
             "Jung": ["Ti", "Ne", "Si", "Fe"],
             "Socionics": ["L", "I", "I"],
             "Keirsey": "Architect",
-            "Pierce": "Abstracting"
+            "Pierce": "Abstracting",
+            "FourElements": "<b>1x1</b>"
         },
         {
             "MBTI": ["E", "N", "T", "P"],
             "Jung": ["Ne", "Ti", "Fe", "Si"],
             "Socionics": ["I", "L", "E"],
             "Keirsey": "Inventor",
-            "Pierce": "Multifaceted"
+            "Pierce": "Multifaceted",
+            "FourElements": "3x1"
         },
         {
             "MBTI": ["E", "N", "F", "J"],
             "Jung": ["Fe", "Ni", "Se", "Ti"],
             "Socionics": ["E", "I", "E"],
             "Keirsey": "Teacher",
-            "Pierce": "Persuasion"
+            "Pierce": "Persuasion",
+            "FourElements": "3x2"
         },
         {
             "MBTI": ["I", "N", "F", "J"],
             "Jung": ["Ni", "Fe", "Ti", "Se"],
             "Socionics": ["I", "E", "I"],
             "Keirsey": "Counselor",
-            "Pierce": "Idealistic"
+            "Pierce": "Idealistic",
+            "FourElements": "[1x2]"
         },
     ];
 
